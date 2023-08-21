@@ -19,3 +19,5 @@ as myexit.s -o myexit.o
 ```bash
 ld myexit.o -o myexit
 ```
+
+- Place binary file into the bin/ directory to be able to gitignore them
